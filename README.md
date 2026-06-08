@@ -26,6 +26,12 @@
 <img align="center" src="https://skillicons.dev/icons?i=Java,Go,html,css,js,ts,md,vue&theme=light" />
 </p>
 
+<!-- local-codex-activity:start -->
+<p align="center">
+  <img width="832" src="https://raw.githubusercontent.com/icatw/icatw/main/assets/codex-activity.svg" alt="Local Codex token activity heatmap" />
+</p>
+<!-- local-codex-activity:end -->
+
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/icatw"><img src="https://img.shields.io/badge/GitHub-icatw-blue?logo=github" /></a>
